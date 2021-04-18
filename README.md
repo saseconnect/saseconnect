@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @saseconnect
 - 👀 I’m interested in providing an environment to develop programming skills.
-- 🌱 I’m currently learning github, php, and mysql.
+- 🌱 I’m currently learning github, html, css, php, and mysql.
 - 💞️ I’m looking to collaborate on data-based, template websites for chapters.
 - 📫 How to reach me at volunteer@saseconnect.org
 
